@@ -1,2 +1,2 @@
-# Scripts-and-things
+# Scripts-And-Things
 A github of some simple scripts ive made and use
